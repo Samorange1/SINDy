@@ -5,6 +5,12 @@ Authors: [Aditya Paranjape](https://github.com/adityaaap) and [Madhav Rawal](htt
 Implementation of the SINDy autoencoder for learning dynamics of planar pushing task
 
 
+
+
+https://github.com/Samorange1/SINDy/assets/71136335/41b6d818-f5ad-45f2-aa45-11d34053100a
+
+
+
 This repository contains the code for using the SINDy (Sparse Identification of Nonlinear Dynamics) model to accomplish a planar pushing task. The SINDy model is a custom deep autoencoder network designed to discover a reduced coordinate system where the dynamics are sparsely represented. This approach enables simultaneous learning of governing equations and associated coordinate systems, leveraging the strengths of deep neural networks and sparse identification of nonlinear dynamics.
 
 ## Introduction
